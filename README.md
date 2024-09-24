@@ -6,7 +6,7 @@ Steps to Run the Code
 2. Place the zip file containing the images and the .json file with annotations into the content/ folder of your Colab environment.
 
 Download Pre-trained Weights
-Download the pre-trained weights file "checkpoint0011_4scale.pth" from [this link](https://drive.google.com/drive/folders/1qD5m1NmK0kjE5hh-G17XUX751WsEG-h_)..
+Download the pre-trained weights file "checkpoint0011_4scale.pth" from [this link](https://drive.google.com/drive/folders/1qD5m1NmK0kjE5hh-G17XUX751WsEG-h_).
 Add the weights file to the content/dino/ folder.
 Run the Model in Google Colab
 
